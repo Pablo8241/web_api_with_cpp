@@ -4,6 +4,8 @@ import CalculatorDisplay from "./CalculatorDisplay"
 
 function CalculatorPanel(props){
 
+// Make sure the button handlers are correct.
+
     const buttons = [
         {text: "7", handler: ()=> props.numberClicked("7")},
         {text: "8", handler: ()=> props.numberClicked("8")},
@@ -37,5 +39,5 @@ function CalculatorPanel(props){
         </div>
     );
 }
-
+ // remember to export
 export default CalculatorPanel;
