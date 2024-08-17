@@ -3,8 +3,9 @@ import CalculatorButton from "./CalculatorButton"
 import CalculatorDisplay from "./CalculatorDisplay"
 
 function CalculatorPanel(props){
-
+// This is now code with third branch
 // Make sure the button handlers are correct.
+
 
     const buttons = [
         {text: "7", handler: ()=> props.numberClicked("7")},
