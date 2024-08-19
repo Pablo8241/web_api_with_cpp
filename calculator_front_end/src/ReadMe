@@ -1,0 +1,7 @@
+// This app is created with the aim to learn how front-end applications work with the use of the React library in JavaScript.
+// Additionally, it uses C++ for the backend of the app.
+// Description:
+// Calculator with a GUI that can perform operations such as addition, subtraction, multiplication and division.
+// Created following this video:
+// Part 1: https://www.youtube.com/watch?v=X7sl1cHN_Nc
+// Part 2: https://www.youtube.com/watch?v=tQ1a8tcWIEc&t=1s

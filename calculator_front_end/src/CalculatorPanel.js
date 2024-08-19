@@ -3,7 +3,6 @@ import CalculatorButton from "./CalculatorButton"
 import CalculatorDisplay from "./CalculatorDisplay"
 
 function CalculatorPanel(props){
-// This is now code with fifth branch
 // Make sure the button handlers are correct.
 
 
