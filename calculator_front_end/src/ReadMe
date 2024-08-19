@@ -13,10 +13,9 @@
 
 // Commands to start React:                         Note: Do not include parenthesis when typing in the name.
 
-// These Commands are only done once when you have just started making your application:
+// This Command is only done once when you have just started making your application:
 // 1. npx create-react-app "Application Name"       Creates a new directory for your react app.
+
+// These commands need to be executed every time you start up VS Code in order to see your application:
 // 2. cd "Application Name"/                        Moves to the newly created directory.
-
-// This command needs to be executed every time you start up VS Code in order to see your application:
 // 3. npm start                                     Opens up a localhost window in your browser with your React application.
-
