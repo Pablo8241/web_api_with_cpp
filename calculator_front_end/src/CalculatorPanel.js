@@ -22,7 +22,7 @@ function CalculatorPanel(props){
         {text: "0", handler: ()=> props.numberClicked("0")},
         {text: ".", handler: ()=> props.dotClicked()},
         {text: "C", handler: ()=> props.clearClicked()},
-        {text: "+", handler: ()=> props.numberClicked("add")},
+        {text: "+", handler: ()=> props.operationClicked("add")},
         {text: "=", handler: ()=> props.equalClicked()},
     ];
 
