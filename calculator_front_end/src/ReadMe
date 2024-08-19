@@ -1,7 +1,22 @@
 // This app is created with the aim to learn how front-end applications work with the use of the React library in JavaScript.
 // Additionally, it uses C++ for the backend of the app.
+
+
 // Description:
 // Calculator with a GUI that can perform operations such as addition, subtraction, multiplication and division.
+
+
 // Created following this video:
 // Part 1: https://www.youtube.com/watch?v=X7sl1cHN_Nc
 // Part 2: https://www.youtube.com/watch?v=tQ1a8tcWIEc&t=1s
+
+
+// Commands to start React:                         Note: Do not include parenthesis when typing in the name.
+
+// These Commands are only done once when you have just started making your application:
+// 1. npx create-react-app "Application Name"       Creates a new directory for your react app.
+// 2. cd "Application Name"/                        Moves to the newly created directory.
+
+// This command needs to be executed every time you start up VS Code in order to see your application:
+// 3. npm start                                     Opens up a localhost window in your browser with your React application.
+
