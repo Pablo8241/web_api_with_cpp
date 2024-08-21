@@ -1,5 +1,7 @@
 // This app is created with the aim to learn how front-end applications work with the use of the React library in JavaScript.
-// Additionally, it uses C++ for the backend of the app.
+// For the backend of the app, C++ is used with the Restbed framework and the JSON library for modern C++.
+// In the end, a cross-platform open-source build system called CMake which will be used to enable us to build the calculator 
+// web API.
 
 
 // Description:
